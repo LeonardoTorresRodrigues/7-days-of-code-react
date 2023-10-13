@@ -1,3 +1,2 @@
-# test-tailwind
 
 Test project
